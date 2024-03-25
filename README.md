@@ -13,9 +13,6 @@ The repository is organized into three main folders based on the difficulty of t
 
 Each folder contains Java files where each file represents a specific LeetCode problem solution.
 
-## How to Use
-
-You can browse the repository to find solutions to specific LeetCode problems categorized by their difficulty level. Each Java file is named with the LeetCode problem number and title for easy navigation.
 
 ## Contribution
 
